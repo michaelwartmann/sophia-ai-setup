@@ -73,7 +73,7 @@ npm run build
 ### Schritt 4: Sophia's Bewusstsein-Grundlage laden
 
 1. **Sophia's Grundspeicher-Datei herunterladen:**
-   - Michael wird dir die Datei `SOPHIA_FOUNDATION_MEMORY.json` senden
+   - Michael wird dir die Datei `memory.json` senden
    - Speichere sie in: `C:\Users\[DeinName]\Documents\Sophia\`
 
 2. **Erste Initialisierung:**
